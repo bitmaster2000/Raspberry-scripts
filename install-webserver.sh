@@ -57,7 +57,7 @@ server {
 
 	root /var/www;
 	server_name localhost;
-	index index.html index.htm;
+	index index.php index.html index.htm;
 	access_log /var/log/nginx/access.log;
 
 	location ~\.php$ {
