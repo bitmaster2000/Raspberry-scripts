@@ -8,9 +8,9 @@ they be useful to others too.
 Each script should be run as root (or invoked by sudo).
 
 These scripts are tested on:
-Raspbian Wheezy release 2015-05-05
-Raspbian Jessie release 2015-11-21
-Raspbian Jessie release 2016-09-23
+- Raspbian Wheezy release 2015-05-05
+- Raspbian Jessie release 2015-11-21
+- Raspbian Jessie release 2016-09-23
 
 The usual disclaimer: I am in no way responsible for any kind of
 damage that my scripts do to you or your computer. If you are not
