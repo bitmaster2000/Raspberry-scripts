@@ -5,7 +5,7 @@
 #
 # This script will download wifite and install everything it requires to run.
 # Disclaimer: I take no responsibility for any kind of damage it may cause.
-#             Also, this is for testing purposes only. Do not use this tool
+#             Also, this is for testing purposes only. Do not use these tools
 #             on other people's networks without their consent.
 #
 # Tested on: Raspbian Wheezy release 2015-05-05 (clean install)
@@ -92,7 +92,7 @@ else
 	no downloading wifite
 fi
 
-#packages required for properly running wifite
+#download and install packages required for properly running wifite
 e "Downloading packages required for running wifite..."
 sudo apt-get --yes install reaver tshark pyrit iw ethtool
 
